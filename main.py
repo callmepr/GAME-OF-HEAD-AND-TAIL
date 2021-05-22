@@ -34,4 +34,4 @@ while True:
   else:
     print("\nYou have not selected the option from the given ..")
 
-  print("\n----------------made by-Rupesh Prajapati\nfollow on instagram @call.me_pr ----------------")#keep supporting
+  print("\n----------------made by-Rupesh Prajapati\nfollow on instagram @rupesh_pr7 ----------------")#keep supporting
